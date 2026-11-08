@@ -14,7 +14,6 @@
 ### Safety
 - **Spotter Alerts** – Warns the spotter when bar speed drops towards the lifter's failure point, so they're ready to help before the rep fails.
 - **Pinned-Bar Alarm** – Detects when the bar is stuck on the lifter's chest and sounds an alarm, escalating to an emergency contact if no one responds.
-- **Uneven-Plate Check** – Reads the bar's tilt while it's racked to flag plates that may be loaded unevenly before the lift begins.
 - **Bar-Drop Logging** – Detects sudden impacts, such as the bar being dropped or hitting the safeties, and logs them in the session history.
 
 ### Training
